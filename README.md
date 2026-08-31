@@ -40,12 +40,3 @@ Solo Indie Game Developer
 * Building a cozy ecosystem simulation game.
 
 ---
-
-### 🌐 Links and Contact
-
-* **Website:** [c2h2games.com](https://c2h2games.com/)
-* **X:** [@jemobuildgames](https://x.com/jemobuildgames)
-* **YouTube:** [@jemobuildgames](https://www.youtube.com/@jemobuildgames)
-* **Itch.io:** [jemobuildgames.itch.io](https://jemobuildgames.itch.io)
-* **Bluesky:** [@jemobuildgames.bsky.social](https://bsky.app/profile/jemobuildgames.bsky.social)
-* **Instagram:** [@jemobuildgames](https://www.instagram.com/jemobuildgames)
