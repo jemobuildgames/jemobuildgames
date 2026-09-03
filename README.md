@@ -21,6 +21,5 @@ Solo Indie Game Developer
 * Kenshi
 * Terraria
 * Factorio
-* Stardew Valley
 
 ---
