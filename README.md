@@ -1,8 +1,5 @@
 # Hi, I'm Jemo 👋
 
-Ex-Electronics Engineer
-* Designed kW-class server power supply units.
-
 Solo Indie Game Developer
 * Transitioned to indie game development, building the worlds from my imagination with Godot Engine.
 
