@@ -5,15 +5,7 @@ Solo Indie Game Developer
 
 ---
 
-### 💡 About Me
-
-* Spent 2 years as an electronics engineer designing kW-class server PSUs.
-* Pivoted to full-time indie game development to build the projects I've always wanted.
-* Focused on system-driven simulation games.
-
----
-
-### 🎮 Favorite Games
+### 🎮 My Favorite Games
 
 * Kenshi
 * Terraria
