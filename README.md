@@ -1,7 +1,7 @@
 # Hi, I'm Jemo 👋
 
 Solo Indie Game Developer
-* Transitioned to indie game development, building the worlds from my imagination with Raylib.
+* Transitioned to indie game development, building the worlds from my imagination with MonoGame.
 
 ---
 
