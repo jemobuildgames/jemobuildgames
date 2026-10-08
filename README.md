@@ -1,14 +1,28 @@
-# Hi, I'm Jemo 👋
+<h1 align="center">Hi, I'm Jemo 👋</h1>
 
-Solo Indie Game Developer
-* Transitioned to indie game development, building the worlds from my imagination with MonoGame.
+<p align="center">
+  <strong>Solo Indie Game Developer</strong><br>
+  <em>Building the worlds from my imagination with MonoGame.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/MonoGame-6C4FD1?style=for-the-badge" alt="MonoGame" />
+  <img src="https://img.shields.io/badge/Indie-FF6B6B?style=for-the-badge" alt="Indie" />
+</p>
 
 ---
 
-### 🎮 My Favorite Games
+<h3 align="center">🎮 My Favorite Games</h3>
 
-* Kenshi
-* Terraria
-* Factorio
+<p align="center">
+  <code>Kenshi</code> &nbsp;·&nbsp;
+  <code>Terraria</code> &nbsp;·&nbsp;
+  <code>Factorio</code>
+</p>
 
 ---
+
+<p align="center">
+  <sub>Made with ☕ and too many <code>while(true)</code> loops.</sub>
+</p>
