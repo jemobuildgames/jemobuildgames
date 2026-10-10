@@ -16,10 +16,10 @@
 <h3 align="center">🎮 My Favorite Games</h3>
 
 <p align="center">
-  <a href="https://store.steampowered.com/app/233860/Kenshi/"><code>Kenshi</code></a> &nbsp;·&nbsp;
   <a href="https://store.steampowered.com/app/105600/Terraria/"><code>Terraria</code></a> &nbsp;·&nbsp;
   <a href="https://store.steampowered.com/app/427520/Factorio/"><code>Factorio</code></a> &nbsp;·&nbsp;
-  <a href="https://store.steampowered.com/app/975370/Dwarf_Fortress/"><code>Dwarf Fortress</code></a>
+  <a href="https://store.steampowered.com/app/975370/Dwarf_Fortress/"><code>Dwarf Fortress</code></a> &nbsp;·&nbsp;
+  <a href="https://store.steampowered.com/app/233860/Kenshi/"><code>Kenshi</code></a> 
 </p>
 
 ---
