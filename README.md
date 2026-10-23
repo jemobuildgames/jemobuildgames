@@ -2,12 +2,12 @@
 
 <p align="center">
   <strong>Solo Indie Game Developer</strong><br>
-  <em>Building the worlds from my imagination with MonoGame.</em>
+  <em>Building the worlds from my imagination with Odin and Raylib.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/MonoGame-6C4FD1?style=for-the-badge" alt="MonoGame" />
+  <img src="https://img.shields.io/badge/Odin-1B3A6B?style=for-the-badge" alt="Odin" />
+  <img src="https://img.shields.io/badge/raylib-000000?style=for-the-badge&logo=raylib&logoColor=white" alt="raylib" />
   <img src="https://img.shields.io/badge/Indie-FF6B6B?style=for-the-badge" alt="Indie" />
 </p>
 
@@ -24,5 +24,5 @@
 ---
 
 <p align="center">
-  <sub>Made with ☕ and too many <code>while(true)</code> loops.</sub>
+  <sub>Made with ☕ and too many <code>for</code> loops.</sub>
 </p>
