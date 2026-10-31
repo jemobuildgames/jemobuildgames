@@ -2,12 +2,12 @@
 
 <p align="center">
   <strong>Solo Indie Game Developer</strong><br>
-  <em>Building the worlds from my imagination with Odin and Raylib.</em>
+  <em>Building the worlds from my imagination with C# and Stride.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Odin-1B3A6B?style=for-the-badge" alt="Odin" />
-  <img src="https://img.shields.io/badge/raylib-000000?style=for-the-badge&logo=raylib&logoColor=white" alt="raylib" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Stride-7B3FE4?style=for-the-badge" alt="Stride" />
   <img src="https://img.shields.io/badge/Indie-FF6B6B?style=for-the-badge" alt="Indie" />
 </p>
 
