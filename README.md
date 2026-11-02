@@ -2,12 +2,16 @@
 
 <p align="center">
   <strong>Solo Indie Game Developer</strong><br>
-  <em>Building the worlds from my imagination with C# and Stride.</em>
+  <em>Building the worlds from my imagination with C# and MonoGame.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Stride-7B3FE4?style=for-the-badge" alt="Stride" />
+  <a href="https://github.com/dotnet/csharplang" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  </a>
+  <a href="https://github.com/MonoGame/MonoGame" target="_blank">
+    <img src="https://img.shields.io/badge/MonoGame-7B3FE4?style=for-the-badge" alt="MonoGame" />
+  </a>
   <img src="https://img.shields.io/badge/Indie-FF6B6B?style=for-the-badge" alt="Indie" />
 </p>
 
